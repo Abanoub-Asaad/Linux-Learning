@@ -81,6 +81,6 @@ o  -> other people <br>
 4  ->  stands for "read"    <br>
 2  ->  stands for "write"   <br>
 1  ->  stands for "execute" <br>
-4  ->  stands for "no permissions".
+0  ->  stands for "no permissions".
 
 
