@@ -59,4 +59,19 @@ Ctrl + q | If you probably clicked on `ctrl+s` for saving and you're in the term
 ⬆️ `Up key` | To get to the previous command
 
 
+## File Permissions `In terminal` ⚙️🔒
+
+u  -> user 	   <br>
+g  -> group 	   <br>
+o  -> other people <br>
+
+`chmod 754 <file name>` <br>
+
+7, 5, 4 represent the individual permissions for (in this order) user, group, other <br>
+
+4  ->  stands for "read"    <br>
+2  ->  stands for "write"   <br>
+1  ->  stands for "execute" <br>
+4  ->  stands for "no permissions".
+
 
