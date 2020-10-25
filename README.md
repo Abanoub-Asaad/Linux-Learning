@@ -1,6 +1,4 @@
-# Linux-Learning
-
-## Linux Commands
+## Linux Commands 🧑‍💻
 
 Command | Description
 ------- | -----------
@@ -16,6 +14,7 @@ ls -a | To list all files that in the current directory and the other hidden one
 ls -la | To list all files that in the current directory and the other hidden ones with more details
 cd < path > | “change directory” to change the current directory
 cd | To go to the home page
+cd ~ | To go to the home page
 cd .. | To go back one directory
 sudo -i | To be a super user
 mkdir < folder name > | “make directory” to make a new folder in the current directory
@@ -35,7 +34,8 @@ gunzip < file name .gz > | To extract a zip file
 tar cvf < new compressed file name .tar > < file to compress > <> <> | To compress some files
 tar xvf < compressed file .tar > | To extract a compressed file
 
-## Not always used commands : 
+
+## Not always used commands 🧐
 
 Command | Description
 -- | --
@@ -43,6 +43,20 @@ sudo grep psk= /etc/NetworkManager/system-connections/* | To get the password of
 sudo service network-manager restart | If you closed or killed the network by mistake you can restart it by this way
 sudo apt-get --purge remove < package name > | To uninstall a specific program
 sha1sum < file name > | To get the hash code "SHA-1 number" of a specific file
+
+
+## Tricks `In terminal` ✸🧙‍✹
+
+Trick | Description
+-- | --
+Tab | It's used for autocompletion `commands or arguments`
+Ctrl + a | To move to the beginning of the line 
+Ctrl + e | To move to the end of the line 
+command_1; command_2; command_3 | To run multiple commands in one single command
+command_1 && command_2 | To run multiple commands in one single command only if the previous command was successful
+Ctrl+r search_term | It's a `reverse search` and used for easily search for a command in the history using a search term
+Ctrl + q | If you probably clicked on `ctrl+s` for saving and you're in the terminal, you'll have a frozen terminal. so by this way you can use the terminal again
+⬆️ `Up key` | To get to the previous command
 
 
 
