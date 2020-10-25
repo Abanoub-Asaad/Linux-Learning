@@ -1,3 +1,10 @@
+# Sections
+
+- [Linux Commands](https://github.com/Abanoub-Asaad/Linux-Learning#linux-commands-)
+- [Not always used commands](https://github.com/Abanoub-Asaad/Linux-Learning#not-always-used-commands-)
+- [Tricks in Terminal](https://github.com/Abanoub-Asaad/Linux-Learning#tricks-in-terminal-)
+- [File Permissions In terminal](https://github.com/Abanoub-Asaad/Linux-Learning#file-permissions-in-terminal-%EF%B8%8F)
+
 ## Linux Commands 🧑‍💻
 
 Command | Description
