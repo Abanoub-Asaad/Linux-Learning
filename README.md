@@ -3,6 +3,7 @@
 - [Linux Commands](https://github.com/Abanoub-Asaad/Linux-Learning#linux-commands-)
 - [Not always used commands](https://github.com/Abanoub-Asaad/Linux-Learning#not-always-used-commands-)
 - [Tricks in Terminal](https://github.com/Abanoub-Asaad/Linux-Learning#tricks-in-terminal-)
+- [Amzaing applications for Linux](https://github.com/Abanoub-Asaad/Linux-Learning#amzaing-applications-for-linux-) 
 - [File Permissions In terminal](https://github.com/Abanoub-Asaad/Linux-Learning#file-permissions-in-terminal-%EF%B8%8F)
 
 --------------------------------------
@@ -69,6 +70,21 @@ command_1 && command_2 | To run multiple commands in one single command only if 
 Ctrl+r search_term | It's a `reverse search` and used for easily search for a command in the history using a search term
 Ctrl + q | If you probably clicked on `ctrl+s` for saving and you're in the terminal, you'll have a frozen terminal. so by this way you can use the terminal again
 ⬆️ `Up key` | To get to the previous command
+
+
+## Amzaing applications for Linux 🎧💻
+
+Application Name | Description | Istallation Command
+-- | -- | --
+Rambox | is a workspace browser that allows you to manage as many applications as you want, all in one place | sudo snap install ramboxpro
+Kodi | is a free media player that is designed to look great on your big screen TV but is just as home on a small screen | sudo apt install kodi
+Stacer | is an open source system optimizer and application monitor that helps users to manage entire system with different aspects | sudo apt install stacer
+Calibre | The one stop solution for all your e-book needs. Comprehensive e-book software | sudo apt-get install calibre
+Kdenlive | A software for video editing | sudo apt install kdenlive
+NitroShare | is designed to make transferring files from one device to another extremely simple | sudo apt-get install -y nitroshare
+GIMP | is an image editor like photoshop | sudo apt-get install gimp
+Mega | is a cloud storage and file hosting service | sudo apt-get install megatools 
+Steam | is the ultimate destination for playing, discussing, and creating games | sudo apt-get install steam 
 
 
 ## File Permissions `In terminal` ⚙️🔒
