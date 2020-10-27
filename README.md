@@ -74,7 +74,7 @@ Ctrl + q | If you probably clicked on `ctrl+s` for saving and you're in the term
 
 ## Amzaing applications for Linux 🎧💻
 
-Application Name | Description | Istallation Command
+Application Name | Description | Installation Command
 -- | -- | --
 Rambox | is a workspace browser that allows you to manage as many applications as you want, all in one place | sudo snap install ramboxpro
 Kodi | is a free media player that is designed to look great on your big screen TV but is just as home on a small screen | sudo apt install kodi
