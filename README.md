@@ -42,7 +42,9 @@ gzip < file name > | To compress a specific file to zip format
 gunzip < file name .gz > | To extract a zip file
 tar cvf < new compressed file name .tar > < file to compress > <> <> | To compress some files
 tar xvf < compressed file .tar > | To extract a compressed file
-
+< program_name > & | To open a specific program
+pkill < program_name > | To close a specific program
+application_name -version | To know the version of a specific application
 
 ## Not always used commands 🧐
 
@@ -50,6 +52,7 @@ Command | Description
 -- | --
 sudo grep psk= /etc/NetworkManager/system-connections/* | To get the password of the connected wifi
 sudo service network-manager restart | If you closed or killed the network by mistake you can restart it by this way
+sudo apt-get install < package name > | To install a specific program
 sudo apt-get --purge remove < package name > | To uninstall a specific program
 sha1sum < file name > | To get the hash code "SHA-1 number" of a specific file
 
