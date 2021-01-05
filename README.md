@@ -1,7 +1,7 @@
 # Sections
 
 - [Linux Commands](https://github.com/Abanoub-Asaad/Linux-Learning#linux-commands-)
-- [Not always used commands](https://github.com/Abanoub-Asaad/Linux-Learning#not-always-used-commands-)
+- [Important Commands](https://github.com/Abanoub-Asaad/Linux-Learning#Important-Commands-)
 - [Tricks in Terminal](https://github.com/Abanoub-Asaad/Linux-Learning#tricks-in-terminal-)
 - [Amzaing applications for Linux](https://github.com/Abanoub-Asaad/Linux-Learning#amzaing-applications-for-linux-) 
 - [File Permissions In terminal](https://github.com/Abanoub-Asaad/Linux-Learning#file-permissions-in-terminal-%EF%B8%8F)
@@ -47,7 +47,7 @@ tar xvf < compressed file .tar > | To extract a compressed file
 pkill < program_name > | To close a specific program
 application_name -version | To know the version of a specific application
 
-## Not always used commands 🧐
+## Important Commands 🧐
 
 Command | Description
 -- | --
@@ -56,6 +56,8 @@ sudo service network-manager restart | If you closed or killed the network by mi
 sudo apt-get install < package name > | To install a specific program
 sudo apt-get --purge remove < package name > | To uninstall a specific program
 sha1sum < file name > | To get the hash code "SHA-1 number" of a specific file
+sudo parted -l | To manage partitions with GNU Parted
+sudo fdisk -l | To manipulate disk partition table 
 
 
 ## Tricks `In terminal` ✸🧙‍✹
