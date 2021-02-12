@@ -104,4 +104,8 @@ o  -> other people <br>
 1  ->  stands for "execute" <br>
 0  ->  stands for "no permissions".
 
+## Others
+- [How To Use SSH To Connect To A Remote Server In Linux Or Windows](https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows)
+- [How to use rsync to copy files](https://linuxhint.com/rsync_copy_files/)
+
 
