@@ -5,7 +5,7 @@
 - [Tricks in Terminal](https://github.com/Abanoub-Asaad/Linux-Learning#tricks-in-terminal-)
 - [Amzaing applications for Linux](https://github.com/Abanoub-Asaad/Linux-Learning#amzaing-applications-for-linux-) 
 - [File Permissions In terminal](https://github.com/Abanoub-Asaad/Linux-Learning#file-permissions-in-terminal-%EF%B8%8F)
-
+- [Others](https://github.com/Abanoub-Asaad/Linux-Learning/blob/main/README.md#others)
 --------------------------------------
 
 ## Linux Commands 🧑‍💻
@@ -46,6 +46,7 @@ tar xvf < compressed file .tar > | To extract a compressed file
 < program_name > & | To open a specific program
 pkill < program_name > | To close a specific program
 application_name -version | To know the version of a specific application
+hostname -I | To display private IP addresses 
 
 ## Important Commands 🧐
 
